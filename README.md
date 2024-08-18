@@ -2,6 +2,8 @@
 
 This AutoHotkey (AHK) script allows you to create VSCode-like chording keybindings using the `Escape` key as a modifier. It enables efficient keyboard shortcuts for various tasks, such as opening applications, copying text, and controlling media players.
 
+Capslock has been remapped to escape using PowerToys.
+
 ## Features
 
 - **Escape + m + m**: Open or focus Visual Studio Code.
